@@ -1,8 +1,6 @@
 # Snak00s
 
-Systems programmer focused on low-level development and Unix internals.
-Currently studying at 42.
-
+Currently studying at 42 Paris, aiming to specialze myself in low-level development with a focus on cybersecurity.
 ---
 
 ## Projects
