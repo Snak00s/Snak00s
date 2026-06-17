@@ -22,7 +22,7 @@ Currently studying at 42 Paris, aiming to specialze myself in low-level developm
 ### Collaborative
 | Project | Description |
 |---|---|
-| [ft_transcendence](https://github.com/Anicet78/ft_transcendence) | Full-stack web application — Roguelike online multiplayer game with user authentication, user profile, user interaction and matchmaking |
+| [DungeonNoDragon](https://github.com/Anicet78/ft_transcendence) | Full-stack web application — Roguelike online multiplayer game with user authentication, user profile, user interaction and matchmaking |
 | [Cub3d](https://github.com/mprokosch0/Cub3d) | Raycasting engine inspired by old Wolfenstein game, built in C using miniLibX |
 
 ---
