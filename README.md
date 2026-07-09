@@ -12,12 +12,22 @@ Currently studying at 42 Paris, aiming to specialze myself in low-level developm
 | [libasm](https://github.com/Snak00s/libasm) | Re-implementation of standard C library functions in x86-64 Assembly |
 | [nm](https://github.com/Snak00s/nm) | Recreation of the `nm` Unix utility — parses ELF binary symbols *(ongoing)* |
 
+### Security
+| Project | Description |
+|---|---|
+| [ft_ssl_md5](https://github.com/Snak00s/ft_ssl_md5) | Implementation of cryptographic hash functions (**md5**, **sha256** and **whirlpool**) — made for easy implementation of newer functions |
+
 ### Unix & Shell
 | Project | Description |
 |---|---|
 | [42_minishell](https://github.com/Snak00s/42_minishell) | POSIX-compliant shell with pipes, redirections, builtins, and signal handling |
 | [42_inception](https://github.com/Snak00s/42_inception) | Docker-based infrastructure — NGINX, WordPress, MariaDB combined with docker-compose |
 | [dr_quine](https://github.com/Snak00s/dr_quine) | Self-replicating programs (quines) in C and x86-64 Assembly |
+
+### Math & AI
+| Project | Description |
+|---|---|
+| [ft_linear_regression](https://github.com/Snak00s/ft_linear_regression) | Creation of an linear regression model using gradient descent |
 
 ### Collaborative
 | Project | Description |
@@ -29,7 +39,7 @@ Currently studying at 42 Paris, aiming to specialze myself in low-level developm
 
 ## Skills
 
-**Languages** — C, C++, x86-64 Assembly, Bash  
+**Languages** — C, C++, Python, x86-64 Assembly, Bash  
 **Systems** — Linux, POSIX, ELF, sockets, processes, signals
 **Tools** — Docker, Git, Makefile, GDB
 **Web** — HTTP, CGI, REST (ft_transcendence)
